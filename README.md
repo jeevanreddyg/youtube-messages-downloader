@@ -1,13 +1,13 @@
 # youtube-messages-downloader
 
-**Step 1:** Install python and cone the repo or download the code
+**Step 1:** Install python and clone the repo or download the code
 
 **Step 2:** Goto project folder and create virtual environment by executing below command 
 ```
 python -m venv venv
 ```
 
-**Step 3:** Install the python packages from requirement txt 
+**Step 3:** Install the python packages from requirement.txt 
 ```
 pip install -r requirements.txt
 ```
