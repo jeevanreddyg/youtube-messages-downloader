@@ -19,4 +19,4 @@ pip install -r requirements.txt
 python read.py 
 ```
 
-Note: Make sure your laptop go to sleep during downlading the comments. If you are trying to download 50 events data, takes around ~20 mins
+Note: Make sure your laptop not go to sleep during downlading the comments. If you are trying to download 50 events data, takes around ~20 mins
